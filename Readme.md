@@ -11,12 +11,12 @@
 
 ---
 
-👉 Take advantage of the built-in support of the Google Colab ecosystem
-👉 Work with TensorFlow data sets
-👉 Create input pipelines to feed state-of-the-art deep learning models
-👉 Create pipelined state-of-the-art deep learning models with clean and reliable Python code
-👉 Leverage pre-trained deep learning models to solve complex machine learning tasks
-👉 Create a simple environment to teach an intelligent agent to make automated decisions
+👉 Take advantage of the built-in support of the Google Colab ecosystem  
+👉 Work with TensorFlow data sets  
+👉 Create input pipelines to feed state-of-the-art deep learning models  
+👉 Create pipelined state-of-the-art deep learning models with clean and reliable Python code 
+👉 Leverage pre-trained deep learning models to solve complex machine learning tasks  
+👉 Create a simple environment to teach an intelligent agent to make automated decisions  
 
 ---
 
