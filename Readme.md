@@ -6,7 +6,7 @@
 
 | About the Book                                               | Book                                                     |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| Use TensorFlow 2.x in the Google Colab ecosystem to create state-of-the-art deep learning models guided by hands-on examples. The Colab ecosystem provides a free cloud service with easy access to on-demand GPU (and TPU) hardware acceleration for fast execution of the models you learn to build. This book teaches you state-of-the-art deep learning models in an applied manner with the only requirement being an Internet connection. The Colab ecosystem provides everything else that you need, including Python, TensorFlow 2.x, GPU and TPU support, and Jupyter Notebooks. | ![](https://m.media-amazon.com/images/I/41CiiwKUHdL.jpg) |
+| Use TensorFlow 2.x in the Google Colab ecosystem to create state-of-the-art deep learning models guided by hands-on examples. The Colab ecosystem provides a free cloud service with easy access to on-demand GPU (and TPU) hardware acceleration for fast execution of the models you learn to build. This book teaches you state-of-the-art deep learning models in an applied manner with the only requirement being an Internet connection. The Colab ecosystem provides everything else that you need, including Python, TensorFlow 2.x, GPU and TPU support, and Jupyter Notebooks. | ![](https://m.media-amazon.com/images/I/61LfZhNHoOL.jpg) |
 ### :book: What this book Covers
 
 ---
