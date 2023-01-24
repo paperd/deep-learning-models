@@ -1,6 +1,6 @@
-## State-of-the-Art Deep Learning Models in TensorFlow:
+# State-of-the-Art Deep Learning Models in TensorFlow
 
-###### Modern Machine Learning in the Google Colab Ecosystem
+###Modern Machine Learning in the Google Colab Ecosystem
 
 ---
 
